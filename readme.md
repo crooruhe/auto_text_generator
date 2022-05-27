@@ -1,7 +1,7 @@
 ### Version 1.0
 ###
 ### C Ruhe 2022
-### cruhe@yahoo.com
+### cruhe @ yahoo . com
 ###
 ### the purpose of this program is to create a list of names (more accurately strings of 13 or less characters)
 ### to avoid downloading or sharing gigabyte files
