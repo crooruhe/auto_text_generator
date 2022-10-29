@@ -1,8 +1,7 @@
 ### Version 1.0
 ###
-### C Ruhe 2022
-### cruhe @ yahoo . com
-###
+### croo 2022
+### ###
 ### the purpose of this program is to create a list of names (more accurately strings of 13 or less characters)
 ### to avoid downloading or sharing gigabyte files
 ### for software testing, this will create a user input amount of names/text put line by line
